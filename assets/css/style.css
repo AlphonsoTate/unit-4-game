@@ -1,0 +1,61 @@
+.crystals {
+    height: 200px;
+    width:200px;
+    border: solid 2px purple;
+    
+    }
+
+    #crystals {
+        
+
+        display: flex;
+    justify-content: space-around;
+    
+   
+    align-items: center;
+    }
+
+    .winningNum{
+        text-align: center;
+        margin: auto;
+        font-size: 25px;
+        color: indigo;
+        padding-top: 15px;
+        width: 200px;
+        height: 200px;
+        
+    }
+
+    .winsTally {
+        width: 300px;
+        background: darkkhaki;
+        height:200px;
+        color: grey;
+        font-size: 34px;
+
+    }
+
+  body {
+      background: rgb(253, 210, 253);
+  }
+
+
+  .header {
+      text-align: center;
+      font-size: 50px;
+      color: darkblue;
+      font-weight: bold;
+      padding-bottom: 80px;
+      background: blueviolet;
+      height:1em;
+      width: 10em;
+      font-family: fantasy;
+      margin: auto;
+      margin-bottom: 40px;
+
+    
+
+
+
+
+  }
